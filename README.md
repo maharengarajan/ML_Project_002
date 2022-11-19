@@ -30,7 +30,9 @@ git add filename - To add file to git
 git status - To see status 
 git log - To see version
 .git ignore filename - To ignore file 
-git commit -m "messages"
+git commit -m "messages" - To commit changes
+git push origin main - To send changes/version to github
+
 
 
 

@@ -1,12 +1,11 @@
-from setuptools import setup
+from setuptools import setup,find_packages
 from typing import List
 
 #Declaring variable for setup function
 PROJECT_NAME="housing_predictior"
-VERSION="0.0.1"
+VERSION="0.0.2"
 AUTHOR="Renga Rajan"
 DESCRIPTION="This is my second ML Project"
-PACKAGES=["housing"]
 REQUIREMENTS_FILE_NAME="requirements.txt"
 
 
@@ -23,6 +22,6 @@ setup(
     version=VERSION,
     author=AUTHOR,
     description=DESCRIPTION,
-    packages=PACKAGES,
+    packages=find_packages(),
     install_requires=get_requirements_list()
 )

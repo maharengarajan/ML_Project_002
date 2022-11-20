@@ -42,7 +42,8 @@ API Key :
 API name : 
 
 
-
+After setup.py file created need to install in terminal
+python setup.py install
 
 
 

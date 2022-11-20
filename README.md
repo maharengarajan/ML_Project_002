@@ -44,6 +44,9 @@ API name :
 
 After setup.py file created need to install in terminal
 python setup.py install
+use of this file - no need to run every time "pip install -r req.txt"
+
+
 
 
 

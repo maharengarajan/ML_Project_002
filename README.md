@@ -47,6 +47,9 @@ python setup.py install
 use of this file - no need to run every time "pip install -r req.txt"
 
 
+step1 : create folder structure
+step2 : create logging
+step3 : create exception handling
 
 
 

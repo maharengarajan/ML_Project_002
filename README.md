@@ -26,12 +26,22 @@ app.py - write our codes
 To run our codes - python app.py
 
 
+Git Comments:
+
 git add filename - To add file to git
 git status - To see status 
 git log - To see version
 .git ignore filename - To ignore file 
 git commit -m "messages" - To commit changes
 git push origin main - To send changes/version to github
+
+
+Heroku Deployment
+email : 
+API Key : 
+API name : 
+
+
 
 
 

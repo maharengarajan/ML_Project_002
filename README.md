@@ -51,6 +51,13 @@ step1 : create folder structure
 step2 : create logging
 step3 : create exception handling
 
+pip install ipykernel
 
+DataIngestionConfig:
+1.Download url
+2.Download folder
+3.Extract folder
+4.train dataset folder
+5.Test dataset folder
 
 

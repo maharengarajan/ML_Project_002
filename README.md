@@ -60,4 +60,12 @@ DataIngestionConfig:
 4.train dataset folder
 5.Test dataset folder
 
+pip install pyYAML
+
+os.getcwd()
+os.chdir()
+os.listdir()
+
+
+
 
